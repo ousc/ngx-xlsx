@@ -14,7 +14,7 @@
 
 #### step-2
 
-+ 添加NgxXLSXModule到你的Angular Module
++ 添加NgxXLSXModule到你的AppModule
 
 ```typescript
   import { NgxXLSXModule } from '@notadd/ngx-xlsx';
