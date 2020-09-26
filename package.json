@@ -1,13 +1,13 @@
 {
   "name": "ngx-xlsx",
-  "version": "1.0.2",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "build:lib": "ng build @ousc/ngx-xlsx",
     "build:lib:prod": "ng build --prod @ousc/ngx-xlsx",
-    "publish:lib": "cd dist/notadd/ngx-xlsx && npm publish --access public",
+    "publish:lib": "cd dist/ousc/ngx-xlsx && npm publish --access public",
     "deploy": "ng build --prod --base-href /ngx-xlsx/ && angular-cli-ghpages --dir ./dist/ngx-xlsx/",
     "test": "ng test",
     "lint": "ng lint",

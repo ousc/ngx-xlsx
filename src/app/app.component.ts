@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { NgxXLSXService } from '../../projects/notadd/ngx-xlsx/src/public_api';
+import { NgxXLSXService } from '../../projects/ousc/ngx-xlsx/src/public_api';
 
 @Component({
   selector: 'app-root',
